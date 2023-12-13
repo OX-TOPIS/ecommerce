@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Oswald:wght@600&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+.btn{
+    @apply bg-Black text-White p-4 px-6 rounded-md font-semibold text-xl  hover:text-Black transition-all
+}
+
+.title{
+    @apply text-3xl font-semibold capitalize md:mt-8 md:mx-24 mx-8 mt-4 font-primary
+}
+
+.h1{
+    @apply text-xl font-semibold my-1 font-primary text-Black
+}
+
+.h2{
+    @apply text-xl my-1 font-primary text-Black
+}
+
+.p{
+    @apply text-TextGray my-1 font-primary
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "One-shoulder Bodycon Dress",
+        "category": "Dress",
+        "price": 1000,
+        "image": "src/assets/images/products/dress1.jpeg",
+        "lifespan": "Divided"
+    },
+    {
+        "id": 2,
+        "title": "Tie-detail Satin Dress",
+        "category": "Dress",
+        "price": 1200,
+        "image": "src/assets/images/products/dress2.jpeg",
+        "lifespan": "Kids"
+    },
+    {
+        "id": 3,
+        "title": "OSequined Deep-back Dress",
+        "category": "Dress",
+        "price": 2300,
+        "image": "src/assets/images/products/dress3.jpeg",
+        "lifespan": "Kids"
+    },
+    {
+        "id": 4,
+        "title": "Oversized Printed T-shirt",
+        "category": "T-Shirt",
+        "price": 370,
+        "image": "src/assets/images/products/shirt1.jpeg",
+        "lifespan": "Men"
+    },
+    {
+        "id": 5,
+        "title": "Long Printed T-shirt",
+        "category": "T-Shirt",
+        "price": 400,
+        "image": "src/assets/images/products/shirt2.jpeg",
+        "lifespan": "Men"
+    },
+    {
+        "id": 6,
+        "title": "Printed T-shirt",
+        "category": "T-Shirt",
+        "price": 250,
+        "image": "src/assets/images/products/shirt3.jpeg",
+        "lifespan": "Divided"
+    },
+    {
+        "id": 7,
+        "title": "Motif-front Hoodie",
+        "category": "Hoodies",
+        "price": 100,
+        "image": "src/assets/images/products/hood1.jpeg",
+        "lifespan": "Divided"
+    },
+    {
+        "id": 8,
+        "title": "Printed Hoodie",
+        "category": "Hoodies",
+        "price": 300,
+        "image": "src/assets/images/products/hood2.jpeg",
+        "lifespan": "Ladies"
+    },
+    {
+        "id": 9,
+        "title": "5-pack Jersey Vest Tops",
+        "category": "Hoodies",
+        "price": 50,
+        "image": "src/assets/images/products/hood3.jpeg",
+        "lifespan": "Ladies"
+    }
+]
